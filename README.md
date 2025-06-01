@@ -1,2 +1,1 @@
-# lighty
-zama - lighty
+# Project Helper CLI
